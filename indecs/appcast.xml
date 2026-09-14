@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Indecs for Mac</title>
+    <link>https://cloudyindustries.github.io/cloudy-downloads/indecs/appcast.xml</link>
+    <description>Updates for Indecs for Mac. Items are added by build.sh --dist --publish in the indecs-macos repo, newest first.</description>
+    <language>en</language>
+  </channel>
+</rss>
