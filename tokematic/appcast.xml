@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Tokematic</title>
+    <link>https://github.com/cloudyindustries/tokematic-releases/releases/latest/download/appcast.xml</link>
+    <description>Tokematic updates</description>
+    <language>en</language>
+  <item>
+    <title>Tokematic 1.1.1206</title>
+    <sparkle:version>1206</sparkle:version>
+    <sparkle:shortVersionString>1.1.1206</sparkle:shortVersionString>
+    <description><![CDATA[
+<ul>
+<li>Saved API keys and existing credential grants work again without
+enabling requests for new access.</li>
+<li>Keychain and browser access requests share one checkbox. Safari
+remains separate because it needs Full Disk Access. Provider Settings
+offer web sign-in as an alternative.</li>
+<li>The Keychain guide remembers when you continued, so restarting the
+app or changing the checkbox does not show it again.</li>
+<li>Repeated login failures now show one error per known account.
+Sources that need the same fix share one clear notice with a link to
+provider Settings.</li>
+<li>Claude refreshes again after access is granted, and blocked sources
+remain visible when no working source can provide a reading.</li>
+<li>Codex no longer suggests a Business plan as an upgrade from a
+personal plan.</li>
+</ul>
+    ]]></description>
+    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.1206/Tokematic-1.1.1206-universal.zip"
+             sparkle:edSignature="bOwotp7MMbGLJaEuyfaUqWe2b5gAgbrRu7S+gM3VfRat0a6v+X9q7gEq52Elo1yq4VGRhS9y3H00xQL4WKVkCg=="
+             length="41510914"
+             type="application/octet-stream" />
+  </item>
+
+  <item>
+    <title>Tokematic 1.1.570</title>
+    <sparkle:channel>daily</sparkle:channel>
+    <sparkle:version>570</sparkle:version>
+    <sparkle:shortVersionString>1.1.570</sparkle:shortVersionString>
+    <description><![CDATA[
+<ul>
+<li>Saved API keys and existing credential grants work again without
+enabling requests for new access.</li>
+<li>Keychain and browser access requests share one checkbox. Safari
+remains separate because it needs Full Disk Access. Provider Settings
+offer web sign-in as an alternative.</li>
+<li>The Keychain guide remembers when you continued, so restarting the
+app or changing the checkbox does not show it again.</li>
+<li>Repeated login failures now show one error per known account.
+Sources that need the same fix share one clear notice with a link to
+provider Settings.</li>
+<li>Claude refreshes again after access is granted, and blocked sources
+remain visible when no working source can provide a reading.</li>
+<li>Codex no longer suggests a Business plan as an upgrade from a
+personal plan.</li>
+</ul>
+    ]]></description>
+    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.570/Tokematic-1.1.570-universal.zip"
+             sparkle:edSignature="fO23WGxdFvjr88XGOgDLF0KE9qu3mI4dGIs51xK1V39WIEy3AYt6k7C4fDgUgSX++QwhpuaQLEgukIuZkVgUAg=="
+             length="36819358"
+             type="application/octet-stream" />
+  </item>
+
+  <item>
+    <title>Tokematic 1.1.563</title>
+    <sparkle:channel>daily</sparkle:channel>
+    <sparkle:version>563</sparkle:version>
+    <sparkle:shortVersionString>1.1.563</sparkle:shortVersionString>
+    <description><![CDATA[
+<ul>
+<li>Check for Updates now offers any newer release, including interim
+builds. Automatic updates still follow the Early Access Updates
+checkbox.</li>
+<li>Browser, Safari and Claude CLI Keychain support now require an
+explicit opt-in. Older automatic settings do not count as consent, so
+you may need to enable these options again in Settings.</li>
+<li>Browser scans share one Keychain read per item during each app
+session, reducing repeated access prompts after opt-in.</li>
+<li>Preferences and Conversations now share the Glacier design, with
+clearer spacing, type and controls.</li>
+<li>Updated conversation pricing for GPT-5.6 models.</li>
+<li>Improved the Mac’s change notifications for synced iPhone
+widgets.</li>
+</ul>
+    ]]></description>
+    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.563/Tokematic-1.1.563-universal.zip"
+             sparkle:edSignature="JhwvEMEB82L3Qwdos8J/OWm4pGA4W/t/crzP3bUA9JBh+cUy/HUskI2ncg35TBGCDqzhpKe1zuACGi3SzYkwCA=="
+             length="36737060"
+             type="application/octet-stream" />
+  </item>
+
+  <item>
+    <title>Tokematic 1.1.531</title>
+    <sparkle:channel>daily</sparkle:channel>
+    <sparkle:version>531</sparkle:version>
+    <sparkle:shortVersionString>1.1.531</sparkle:shortVersionString>
+    <description><![CDATA[
+<ul>
+<li>Conversations rows now carry the real vendor mark in brand colour,
+and tokens, cost and time sit in fixed right-aligned columns so the
+numbers line up from row to row.</li>
+<li>Split token counts: the new In/Out toggle splits each conversation’s
+tokens into separate input and output columns, both sortable like the
+rest.</li>
+<li>Column headers sit in a row of their own at the top of the list,
+always visible for sorting, and the filter chips show a clear ring when
+they are on.</li>
+<li>The newest GPT-6 models are priced, so conversations on them show
+real costs instead of “unpriced”.</li>
+<li>Fixed a pace figure that could spike impossibly high when a
+provider’s additional quota limit leaked into the weekly and five-hour
+histories.</li>
+<li>The Conversations window recentres itself if it ever reopens off the
+edge of the screen.</li>
+</ul>
+    ]]></description>
+    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.531/Tokematic-1.1.531-universal.zip"
+             sparkle:edSignature="uwNwRJBFeTO9JLfDVT81GHNnw+fUuUFU+9Y864KF8LOpO+nNQB6M+d6VYXZtfsk2H401CXSFw5CRpDIU6G0hDA=="
+             length="36724321"
+             type="application/octet-stream" />
+  </item>
+  <item>
+    <title>Tokematic 1.1.519</title>
+    <sparkle:channel>daily</sparkle:channel>
+    <sparkle:version>519</sparkle:version>
+    <sparkle:shortVersionString>1.1.519</sparkle:shortVersionString>
+    <description><![CDATA[
+<p>INTERIM RELEASE - LAST 1.0 BEFORE BIG CHANGES</p>
+<p>We’ve picked up a lot of menu options and sync confusion. This is a
+release to get a lot of important bug fixes before we turn back to some
+bigger things. As usual, let us know about any bugs but expect another
+release real soon now.</p>
+<ul>
+<li>New provider: z.ai (GLM Coding Plan) joins the list, with its own
+Preferences tab, plan ladder, vendor mark and a model-by-model usage
+ledger. Sign-in details are picked up from the Zcode CLI config when
+they are already on your Mac.</li>
+<li>Sign in from inside the app: subscription providers now open an
+in-app web sign-in, so you no longer have to fish session tokens out of
+a browser.</li>
+<li>Preferences has a new look: every pane is rebuilt on shared cards,
+toggles, buttons and tip chips, with bundled MiSans and JetBrains Mono
+type and windows sized to the design.</li>
+<li>Conversations shows the whole tree: subagent runs nest under the
+session that spawned them and sessions fired from one brief fold into a
+single wave row. Each row now carries a short local name and a separate
+shareable one.</li>
+<li>Conversations also gains sortable columns, a date range, durations,
+smarter digests, the repo origin and commit for each session and an
+Obfuscate switch that strips names from the list. Automated pings fold
+away and long titles wrap.</li>
+<li>Kimi’s monthly membership pool shows as its own quota row, the
+desktop app’s token store is read directly and the account-region
+setting is honoured for both Kimi and z.ai.</li>
+<li>Pace follows where you work: Tokematic learns your work pattern per
+place, so a quiet week at home no longer reads as falling behind.</li>
+<li>Codex quota readings key on each window’s real length, so the
+five-hour and weekly windows keep separate pace histories after the
+migration.</li>
+<li>Clock times use your own locale’s spelling, a week means seven
+calendar days and the edit-mode window matches the resting window’s gaps
+and type.</li>
+<li>Privacy: usage harvesting never reads a working directory that sits
+behind a macOS privacy prompt.</li>
+<li>Sync: replay lets the newest client win, and the iCloud rail is
+checked record by record before any migration cuts over. Sealed sync now
+has full parity on iCloud and the Return to iCloud offer copies,
+verifies and cuts over in one step.</li>
+<li>Saved views: arrange the Mac window once and publish that layout to
+your iPhone.</li>
+<li>Window rows resize smoothly under pressure instead of clipping the
+chrome, and the Conversations summary holds its content height.</li>
+</ul>
+    ]]></description>
+    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.519/Tokematic-1.1.519-universal.zip"
+             sparkle:edSignature="cNwSYfin/t9l6YMZ3ft/5dlST3IIA5GlsbO8dDloyMmpgM+0Yj8tBrmRXAEvCNKK1CcJNRLof8wyuTQtrugkAQ=="
+             length="36706492"
+             type="application/octet-stream" />
+  </item>
+  <item>
+    <title>Tokematic 1.1.389</title>
+    <sparkle:version>389</sparkle:version>
+    <sparkle:shortVersionString>1.1.389</sparkle:shortVersionString>
+    <description><![CDATA[
+<ul>
+<li>Arrange the window the way you want it: the window is now its own
+layout, so you can drag readings and headings into place, tick exactly
+which readings each account shows and rename them in place. Command-Z
+undoes any change.</li>
+<li>Group your accounts in the window, shade each group by its vendor
+colour and fold a group shut when you want it out of the way. A vendor
+you sum keeps one full header however many accounts feed it.</li>
+<li>See what you are actually running: the new Conversations view lists
+your live sessions, each named by what it was about.</li>
+<li>Pace is an ordinary reading now, one per quota window, with four
+plain-language bands so you can tell at a glance whether you are ahead
+or behind.</li>
+<li>The menu bar and the window each keep their own arrangement, so you
+can lay them out differently. Option-drag to move things and the changes
+carry across your devices.</li>
+<li>New Apple-only sync: your iPhone reads your usage straight from your
+own iCloud, with nothing handed to us. The private iCloud store holds no
+readable data either way.</li>
+<li>Watch overflow spending build: the spend row and its menu bar
+tooltip show a per-day rate and what a week at that pace projects. A new
+alert warns you before extra usage runs away.</li>
+<li>Choose how hot readings stand out: a Colour or Monochrome switch on
+the Display tab tints the meters or keeps the older italic-then-bold
+look for them.</li>
+<li>Kimi billing reads true: the booster wallet shows as Extra Usage and
+the pay-as-you-go API balance shows as Credits. A hand-linked key no
+longer folds onto the subscription and double-counts.</li>
+<li>Check for Updates and Early Access Updates moved to the About tab,
+beside the version they act on.</li>
+<li>Adding an API key no longer crashes and Return commits it. Renaming
+a key holds focus and saves when you click away.</li>
+</ul>
+    ]]></description>
+    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.389/Tokematic-1.1.389-universal.zip"
+             sparkle:edSignature="plMLnD78+E4p7bBNVX3WPiuRepv0pesI0R4dyaGypLTmdnmP5qIbL8vc2goRWubOuThEJz1ZW4tUeqNpbop6DQ=="
+             length="7844318"
+             type="application/octet-stream" />
+  </item>
+<item>
+    <title>Tokematic 1.0.215</title>
+    <sparkle:channel>daily</sparkle:channel>
+    <sparkle:version>215</sparkle:version>
+    <sparkle:shortVersionString>1.0.215</sparkle:shortVersionString>
+    <description><![CDATA[
+<ul>
+<li>Pick a colour per provider from a new grouped palette (choices that work in both appearances, plus brighter dark-only and light-only sets) and choose where it shows: menu bar controls, or each provider&#x27;s section background and title band in the window.</li>
+<li>A vendor you sum now draws one combined slot in the menu bar, instead of repeating the same total once per account.</li>
+<li>Named API keys show their name everywhere instead of the last four characters, and each linked account says whether it is a subscription or an API key.</li>
+<li>Renaming an API key no longer fights you: Return commits, Escape cancels and clicking away keeps the edit.</li>
+<li>No more false &quot;sign in to iCloud&quot;: sync only says that when you are genuinely signed out, and recovers by itself from momentary hiccups.</li>
+<li>Reset times render properly on 24-hour clocks (&quot;Resets today 1700&quot;, not &quot;Resets today 17&quot;).</li>
+<li>Fixed a crash when opening the Sync tab.</li>
+<li>Preferences fits its content exactly: the Alerts grid keeps its margins, About drops the old Pro entry and the menu bar preview now matches your real menu bar.</li>
+</ul>
+    ]]></description>
+    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.0.215/Tokematic-1.0.215-universal.zip"
+             sparkle:edSignature="Ne2aOxRXZ8LOH17iD2x4RUooUY0q1bit2SFm146zqvGirSZIkAkSaCKuifOzLvk2wWrMEWRw+SCerZinXWG2Cw=="
+             length="5934607"
+             type="application/octet-stream" />
+  </item>
+<item>
+    <title>Tokematic 1.0.121</title>
+    <sparkle:channel>daily</sparkle:channel>
+    <sparkle:version>121</sparkle:version>
+    <sparkle:shortVersionString>1.0.121</sparkle:shortVersionString>
+    <description><![CDATA[
+<ul>
+<li>Choose how often you hear about updates: major and minor releases are always offered, and the new Fast track updates switch in Preferences opts you into every interim build.</li>
+<li>Get a clear alert when Tokematic is missing Full Disk Access, with a one-tap restart the moment you grant it, so usage numbers start flowing without a trip to System Settings.</li>
+<li>Stale readings now fade in the menu bar and in each row, so you can tell at a glance when a number is old rather than current.</li>
+<li>Short-lived sign-in hiccups no longer blank your usage: the last good reading stays on screen while the connection recovers.</li>
+<li>Sign in with your existing local Claude credentials and let Tokematic keep the session refreshed on its own, so you stop getting logged out.</li>
+<li>Track several accounts at once, each with its own menu-bar section, and pick exactly which ones show up.</li>
+<li>Usage keeps updating while Tokematic sits in the background, so the figures are fresh the moment you open the menu.</li>
+<li>New optional cloud sync plus a web dashboard, for checking your usage away from your Mac.</li>
+<li>When a Keychain read fails, the message says why, and the About panel now shows the full version and build.</li>
+</ul>
+    ]]></description>
+    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.0.121/Tokematic-1.0.121-universal.zip"
+             sparkle:edSignature="Mz1cRDazq34ZWm+brhkTY4GW7Ba6XDbLcwovK2IsKwORunTj62/sFFKPhMd4EiLoPGkdV8smB2MZx3H4fkNVDA=="
+             length="5194617"
+             type="application/octet-stream" />
+  </item>
+<item>
+    <title>Tokematic 1.0.88</title>
+    <sparkle:version>88</sparkle:version>
+    <sparkle:shortVersionString>1.0.88</sparkle:shortVersionString>
+    <description><![CDATA[
+<ul>
+<li>Multiple accounts with the same vendor collapse into one summed row — and the combined total shows in the menu bar itself, not just the dropdown.</li>
+<li>The same login signed in from several places folds into a single row, matched by email — no more seeing the same account three times.</li>
+<li>When a login is visible from more than one source, the most reliable one stands for it. Command-line sessions win over browser sessions.</li>
+<li>Sessions Tokematic can&#x27;t read are hidden whenever a working source already covers that login — dead entries stop cluttering the list.</li>
+<li>Money alerts name the actual problem: Payment issue, Out of credits, Low balance.</li>
+<li>Fewer bogus out-of-credits warnings — the alert only fires when a recently-funded balance really runs down.</li>
+<li>Past-due detection catches cases it used to miss.</li>
+<li>API keys can be associated with an account, and the key list no longer shows other vendors&#x27; keys.</li>
+<li>New Hide control for accounts you&#x27;d rather not watch.</li>
+<li>Account links you make by hand stick across refreshes and restarts; learned account identities are remembered, so sessions re-attach on their own.</li>
+<li>Every browser profile is checked now, not just the default one.</li>
+<li>Preferences buttons are now compact glyphs; Unlink only appears where it applies.</li>
+<li>Version shows as marketing version plus build; dist builds are signed; settings sync over iCloud.</li>
+</ul>
+    ]]></description>
+    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.0.88/Tokematic-1.0.88-universal.zip"
+             sparkle:edSignature="VFn+jayKuhDAuCp0t+jLr/WtEd9QzogCVvpRsvAB1Xa1srVI11B2X0llzwdSMvKi7KS1KHjVKjoXE7jCPmXoBw=="
+             length="4883969"
+             type="application/octet-stream" />
+  </item>
+  </channel>
+</rss>
