@@ -6,6 +6,33 @@
     <description>Tokematic updates</description>
     <language>en</language>
   <item>
+    <title>Tokematic 1.1.1370</title>
+    <sparkle:channel>daily</sparkle:channel>
+    <sparkle:version>1370</sparkle:version>
+    <sparkle:shortVersionString>1.1.1370</sparkle:shortVersionString>
+    <description><![CDATA[
+<ul>
+<li>Claude accounts stay unified: command-line snapshots fold cleanly
+into active web sessions, preventing duplicate rows and false
+degradation notices while preserving billing alerts.</li>
+<li>Clearer quota countdowns: resets over 24 hours show plainly in
+hours, and quota alerts skip comfortable windows to chime only when a
+limit approaches.</li>
+<li>On-device summarization control: an Advanced setting lets you keep
+session summaries on your Mac, with Apple Intelligence handling longer
+sessions smoothly.</li>
+<li>Faster Session Map: session reports build smoothly in the background
+without blocking the window.</li>
+<li>More reliable layout sync: saved layouts apply cleanly across
+devices even when new accounts or hidden rows are discovered.</li>
+</ul>
+    ]]></description>
+    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.1370/Tokematic-1.1.1370-universal.zip"
+             sparkle:edSignature="3G+nB3kPjucPgoHUUnx9BW6jAfwHtLaiwVTXMO7aHK8d112+H0u3FsCTUqcrpwGOjWflWGoutCg8s6ft87onDg=="
+             length="42683401"
+             type="application/octet-stream" />
+  </item>
+  <item>
     <title>Tokematic 1.1.1206</title>
     <sparkle:version>1206</sparkle:version>
     <sparkle:shortVersionString>1.1.1206</sparkle:shortVersionString>
