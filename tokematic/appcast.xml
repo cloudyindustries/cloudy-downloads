@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Tokematic</title>
-    <link>https://github.com/cloudyindustries/tokematic-releases/releases/latest/download/appcast.xml</link>
+    <link>https://github.com/SixtyAI/tokematic-releases/releases/latest/download/appcast.xml</link>
     <description>Tokematic updates</description>
     <language>en</language>
   <item>
@@ -27,7 +27,7 @@ without blocking the window.</li>
 devices even when new accounts or hidden rows are discovered.</li>
 </ul>
     ]]></description>
-    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.1370/Tokematic-1.1.1370-universal.zip"
+    <enclosure url="https://github.com/SixtyAI/tokematic-releases/releases/download/v1.1.1370/Tokematic-1.1.1370-universal.zip"
              sparkle:edSignature="3G+nB3kPjucPgoHUUnx9BW6jAfwHtLaiwVTXMO7aHK8d112+H0u3FsCTUqcrpwGOjWflWGoutCg8s6ft87onDg=="
              length="42683401"
              type="application/octet-stream" />
@@ -54,7 +54,7 @@ remain visible when no working source can provide a reading.</li>
 personal plan.</li>
 </ul>
     ]]></description>
-    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.1206/Tokematic-1.1.1206-universal.zip"
+    <enclosure url="https://github.com/SixtyAI/tokematic-releases/releases/download/v1.1.1206/Tokematic-1.1.1206-universal.zip"
              sparkle:edSignature="bOwotp7MMbGLJaEuyfaUqWe2b5gAgbrRu7S+gM3VfRat0a6v+X9q7gEq52Elo1yq4VGRhS9y3H00xQL4WKVkCg=="
              length="41510914"
              type="application/octet-stream" />
@@ -83,7 +83,7 @@ remain visible when no working source can provide a reading.</li>
 personal plan.</li>
 </ul>
     ]]></description>
-    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.570/Tokematic-1.1.570-universal.zip"
+    <enclosure url="https://github.com/SixtyAI/tokematic-releases/releases/download/v1.1.570/Tokematic-1.1.570-universal.zip"
              sparkle:edSignature="fO23WGxdFvjr88XGOgDLF0KE9qu3mI4dGIs51xK1V39WIEy3AYt6k7C4fDgUgSX++QwhpuaQLEgukIuZkVgUAg=="
              length="36819358"
              type="application/octet-stream" />
@@ -111,7 +111,7 @@ clearer spacing, type and controls.</li>
 widgets.</li>
 </ul>
     ]]></description>
-    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.563/Tokematic-1.1.563-universal.zip"
+    <enclosure url="https://github.com/SixtyAI/tokematic-releases/releases/download/v1.1.563/Tokematic-1.1.563-universal.zip"
              sparkle:edSignature="JhwvEMEB82L3Qwdos8J/OWm4pGA4W/t/crzP3bUA9JBh+cUy/HUskI2ncg35TBGCDqzhpKe1zuACGi3SzYkwCA=="
              length="36737060"
              type="application/octet-stream" />
@@ -142,7 +142,7 @@ histories.</li>
 edge of the screen.</li>
 </ul>
     ]]></description>
-    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.531/Tokematic-1.1.531-universal.zip"
+    <enclosure url="https://github.com/SixtyAI/tokematic-releases/releases/download/v1.1.531/Tokematic-1.1.531-universal.zip"
              sparkle:edSignature="uwNwRJBFeTO9JLfDVT81GHNnw+fUuUFU+9Y864KF8LOpO+nNQB6M+d6VYXZtfsk2H401CXSFw5CRpDIU6G0hDA=="
              length="36724321"
              type="application/octet-stream" />
@@ -200,7 +200,7 @@ your iPhone.</li>
 chrome, and the Conversations summary holds its content height.</li>
 </ul>
     ]]></description>
-    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.519/Tokematic-1.1.519-universal.zip"
+    <enclosure url="https://github.com/SixtyAI/tokematic-releases/releases/download/v1.1.519/Tokematic-1.1.519-universal.zip"
              sparkle:edSignature="cNwSYfin/t9l6YMZ3ft/5dlST3IIA5GlsbO8dDloyMmpgM+0Yj8tBrmRXAEvCNKK1CcJNRLof8wyuTQtrugkAQ=="
              length="36706492"
              type="application/octet-stream" />
@@ -244,7 +244,7 @@ beside the version they act on.</li>
 a key holds focus and saves when you click away.</li>
 </ul>
     ]]></description>
-    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.1.389/Tokematic-1.1.389-universal.zip"
+    <enclosure url="https://github.com/SixtyAI/tokematic-releases/releases/download/v1.1.389/Tokematic-1.1.389-universal.zip"
              sparkle:edSignature="plMLnD78+E4p7bBNVX3WPiuRepv0pesI0R4dyaGypLTmdnmP5qIbL8vc2goRWubOuThEJz1ZW4tUeqNpbop6DQ=="
              length="7844318"
              type="application/octet-stream" />
@@ -266,7 +266,7 @@ a key holds focus and saves when you click away.</li>
 <li>Preferences fits its content exactly: the Alerts grid keeps its margins, About drops the old Pro entry and the menu bar preview now matches your real menu bar.</li>
 </ul>
     ]]></description>
-    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.0.215/Tokematic-1.0.215-universal.zip"
+    <enclosure url="https://github.com/SixtyAI/tokematic-releases/releases/download/v1.0.215/Tokematic-1.0.215-universal.zip"
              sparkle:edSignature="Ne2aOxRXZ8LOH17iD2x4RUooUY0q1bit2SFm146zqvGirSZIkAkSaCKuifOzLvk2wWrMEWRw+SCerZinXWG2Cw=="
              length="5934607"
              type="application/octet-stream" />
@@ -289,7 +289,7 @@ a key holds focus and saves when you click away.</li>
 <li>When a Keychain read fails, the message says why, and the About panel now shows the full version and build.</li>
 </ul>
     ]]></description>
-    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.0.121/Tokematic-1.0.121-universal.zip"
+    <enclosure url="https://github.com/SixtyAI/tokematic-releases/releases/download/v1.0.121/Tokematic-1.0.121-universal.zip"
              sparkle:edSignature="Mz1cRDazq34ZWm+brhkTY4GW7Ba6XDbLcwovK2IsKwORunTj62/sFFKPhMd4EiLoPGkdV8smB2MZx3H4fkNVDA=="
              length="5194617"
              type="application/octet-stream" />
@@ -315,7 +315,7 @@ a key holds focus and saves when you click away.</li>
 <li>Version shows as marketing version plus build; dist builds are signed; settings sync over iCloud.</li>
 </ul>
     ]]></description>
-    <enclosure url="https://github.com/cloudyindustries/tokematic-releases/releases/download/v1.0.88/Tokematic-1.0.88-universal.zip"
+    <enclosure url="https://github.com/SixtyAI/tokematic-releases/releases/download/v1.0.88/Tokematic-1.0.88-universal.zip"
              sparkle:edSignature="VFn+jayKuhDAuCp0t+jLr/WtEd9QzogCVvpRsvAB1Xa1srVI11B2X0llzwdSMvKi7KS1KHjVKjoXE7jCPmXoBw=="
              length="4883969"
              type="application/octet-stream" />
