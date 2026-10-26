@@ -5,5 +5,43 @@
     <link>https://cloudyindustries.github.io/cloudy-downloads/indecs/appcast.xml</link>
     <description>Updates for Indecs for Mac. Items are added by build.sh --dist --publish in the indecs-macos repo, newest first.</description>
     <language>en</language>
+  <item>
+    <title>Indecs 1.0.27</title>
+    <pubDate>Sun, 25 Oct 2026 20:32:33 -0700</pubDate>
+    <sparkle:version>27</sparkle:version>
+    <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
+    <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+    <description><![CDATA[
+<ul>
+<li><p>New app icon matching indecs.app.</p></li>
+<li><p>Consistent folder, document and account layouts with native Mac
+controls.</p></li>
+<li><p>Taller Settings window with scrolling for all options.</p></li>
+<li><p>Upload and processing dialogs stay attached to the window that
+opened them.</p></li>
+<li><p>Reconnect without losing watched folders or queued
+files.</p></li>
+<li><p>Saved error history in Documents, including errors from earlier
+sessions.</p></li>
+<li><p>First release: watch folders, drop files anywhere (menu bar,
+Dock, drop zone, main window), see your documents, stats and
+credits.</p></li>
+<li><p>Connect to indecs.app from the app; the key stays in this Mac’s
+keychain.</p></li>
+<li><p>Files are labelled in place: title, Finder tags and a summary
+comment.</p></li>
+<li><p>Settings and watched folders can sync between Macs through iCloud
+when a provisioning profile is installed.</p></li>
+<li><p>Stack copies within a configurable window into one pasteboard
+set.</p></li>
+<li><p>Clips panel: browse, copy and preview recent files copied from
+your folders.</p></li>
+</ul>
+    ]]></description>
+    <enclosure url="https://cloudyindustries.github.io/cloudy-downloads/indecs/Indecs-1.0.27.dmg"
+             sparkle:edSignature="RqxN2wKyg1CfONWElg2BLabVIcIaYgrfF19aKzttFMbB1mPpzOsSE7pkfmNgRTXrPC/T85AXZMUQKmxKKwpMBg=="
+             length="3703781"
+             type="application/octet-stream" />
+  </item>
   </channel>
 </rss>
